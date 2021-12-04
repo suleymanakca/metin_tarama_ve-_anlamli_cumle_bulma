@@ -1,0 +1,15 @@
+C:\Users\bursa\Desktop\kazien_q2\kazien_q2\bin\Debug\net6.0\kazien_q2.exe
+C:\Users\bursa\Desktop\kazien_q2\kazien_q2\bin\Debug\net6.0\kazien_q2.deps.json
+C:\Users\bursa\Desktop\kazien_q2\kazien_q2\bin\Debug\net6.0\kazien_q2.runtimeconfig.json
+C:\Users\bursa\Desktop\kazien_q2\kazien_q2\bin\Debug\net6.0\kazien_q2.dll
+C:\Users\bursa\Desktop\kazien_q2\kazien_q2\bin\Debug\net6.0\ref\kazien_q2.dll
+C:\Users\bursa\Desktop\kazien_q2\kazien_q2\bin\Debug\net6.0\kazien_q2.pdb
+C:\Users\bursa\Desktop\kazien_q2\kazien_q2\obj\Debug\net6.0\kazien_q2.csproj.AssemblyReference.cache
+C:\Users\bursa\Desktop\kazien_q2\kazien_q2\obj\Debug\net6.0\kazien_q2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bursa\Desktop\kazien_q2\kazien_q2\obj\Debug\net6.0\kazien_q2.AssemblyInfoInputs.cache
+C:\Users\bursa\Desktop\kazien_q2\kazien_q2\obj\Debug\net6.0\kazien_q2.AssemblyInfo.cs
+C:\Users\bursa\Desktop\kazien_q2\kazien_q2\obj\Debug\net6.0\kazien_q2.csproj.CoreCompileInputs.cache
+C:\Users\bursa\Desktop\kazien_q2\kazien_q2\obj\Debug\net6.0\kazien_q2.dll
+C:\Users\bursa\Desktop\kazien_q2\kazien_q2\obj\Debug\net6.0\ref\kazien_q2.dll
+C:\Users\bursa\Desktop\kazien_q2\kazien_q2\obj\Debug\net6.0\kazien_q2.pdb
+C:\Users\bursa\Desktop\kazien_q2\kazien_q2\obj\Debug\net6.0\kazien_q2.genruntimeconfig.cache
