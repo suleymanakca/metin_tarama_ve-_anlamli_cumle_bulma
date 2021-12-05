@@ -1,7 +1,7 @@
 # METİN TARAMA VE ANLAMI CÜMLE BULMA
 Not: Proje C# dilinde Visual Studio 2022 kullanarak .NET 6.0 ile yapılmıştır.
 
-# AÇIKLAMA
+# AÇIKLAMA VE ÇÖZÜM
 
 Online ortamda bulunan haber içeriklerinin hızlıca taranabilmesi için otomatik döküman özetlerinin çıkarılması amaçlanmaktadır. Buna göre her bir dökümanı en fazla ifade eden cümleler 
 dökümandan ayrıştırılarak dökümanların tamamının okunmasına gerek kalmadan gerekli bilgiye erişilmesi sağlanacaktır.
