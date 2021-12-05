@@ -10,7 +10,7 @@ dökümandan ayrıştırılarak dökümanların tamamının okunmasına gerek ka
 * Metin noktalama işaretleri(. hariç) temizlendi.
 * Kelimelerin metin içerisindeki frekansı bulundu.
 * Kaç çeşit frekans olduğu tespit edildi.
-* Bulunan frekans çeşitliliğinin ortalaması alındı ve ortalamadan yüksek olanların frekansları katsayısını arttırmak için ile çarpıldı.
+* Bulunan frekans çeşitliliğinin ortalaması alındı ve ortalamadan yüksek olanların frekansları katsayısını arttırmak için 2 ile çarpıldı.
 * Cümleler içerdiği kelimelerin frekansına göre ağırlıklandırıldı.
 * Ortalama ağırlıktan yüksek olan cümleler tespit edildi.
 * Bulunan cümlelerın yine ağırlık ortalaması alındı ve ortalamadan yüksek olanlar tespit edildi.
